@@ -1,0 +1,66 @@
+[1] Abadie A., 2005, “Semiparametric Difference-in-Difference Estimators,” Review of Economic Studies, 72(1): 1 -19.
+[2] Abadie A. and Imbens G., 2006, “Large Sample Properties of Matching Estimators for Average Treatment Effects,” Econometrica, 74(1): 235 -267.
+[3] Ait-Sahalia Y. and Jacod J., 2009, “Testing for Jumps in a Discretely Observed Process,” Annals of Statistics, 37(1): 184-222.
+[4] Athey S. and Imbens G., 2006, “Identification and Inference in Nonlinear Difference-in-Differences Models,” Econometrica, 74(2): 431 -497.
+[5] Bai J., 2009, “Panel Data Models with Interactive Fixed Effects,” Econometrica, 77(4): 1229 -1279.
+[6] Bai J., 2013, “Fixed Effects Dynamic Panel Data Models, A Factor Analytical Method,” Econometrica, 81(1): 285 -314.
+[7] Bai, J. and Ng, S., 2010, “Instrumental Variable Estimation in a Data Rich Environment,” Econometric Theory, 26(6): 1577 - 1606.
+[8] Belloni A., Chen D., Chernozhukov V. and Hansen C., 2012, “Sparse Models and Methods for Optimal Instruments with an Application to Eminent Domain,” Econometrica, 80(6): 2369 - 2429.
+[9] Berkowitz D., Caner M. and Fang Y., 2012, “The Validity of Instruments Revisited,” Journal of Econometrics, 166(1): 255-266.
+[10] Bertrand M., Duflo E. and Mullainathan S., 2004, “How Much Should We Trust Difference-in-Difference Estimates?” Quarterly Journal of Economics, 119(1): 249-275.
+[11] Black F. and Scholes M., 1973, “The Pricing of Options and Corporate Liabilities,” Journal of Political Economy, 81(3): 637-654.
+[12] Bollerslev T., 1986, “Generalized Autoregressive Conditional Heteroskedasticity,” Journal of Econometrics, 31 (3): 307-327.
+[13]Cai Z., Fan J., and Li R., 2000, “Efficient Estimation and Inference for Varying-coefficient Models,” Journal of the American Statistical Association, 95(451): 888-902.
+[14] Cai Z., Fan J., and Yao Q., 2000, “Functional-coefficient Regression Models for Nonlinear Time Series,” Journal of the American Statistical Association, 95(451): 941-956. 
+[15]Camerer, C., 2004, “A Cognitive Hierarchy Model of Games,” Quarterly Journal of Economics, 119(3): 861-898.
+[16] Caner M. and Fan Q., 2015, “Hybrid Generalized Empirical Likelihood Estimators: Instrument Selection with Adaptive LASSO,” Journal of Econometrics, 187(1):256 -274.
+[17] Caplin A., Dean M., and Martin D., 2011, “Search and Satisficing,” American Economic Review, 101(7)： 2899-2922.
+[18] Card D. and Krueger A., 1994, “Minimum Wages and Employment: A Case Study of the Fastfood Industry in New Jersey and Pennsylvania,” American Economic Review, 84(4): 772 - 784.
+[19] Carrasco M., 2012, “A Regularization Approach to the Many Instruments Problem,” Journal of Econometrics, 170(2): 383 -398.
+[20] Chan W. and Maheu J, 2002, “Conditional Jump Dynamics in Stock Market Returns,” Journal of Business & Economic Statistics, 20(3): 377-389.
+[21] Chen J., Gao J. and Li D., 2012, “Semiparametric Trending Panel Data Models with Cross-sectional Dependence,” Journal of Econometrics, 171(1): 71-85.
+[22] Conley T., Hansen C. and Rossi P., 2012, “Plausibly Exogenous,” Review of Economics and Statistics, 94(1): 260 -272.
+[23] Cowles A., 1933, “Can Stock Market Forecasters Forecast?” Econometrica, 1(3): 309-324.
+[24] Cowles A., 1944, “Stock Market Forecasting,” Econometrica, 12(3/4): 206-214.
+[25] Engle R., 1982, “Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation,” Econometrica, 50(4): 987-1007.
+[26] Fama E., 1970, “Efficient Capital Markets: A Review of Theory and Empirical Work,” Journal of Finance, 25(2): 383-417.
+[27] Fan J., Fan Y. and Lv J., 2008, “High Dimension Covariance Matrix Estimation Using a Factor Model,” Journal of Econometrics, 147(1): 186 - 197.
+[28] Fan J. and Li R., 2001, “Variable Selection via Nonconcave Penalized Likelihood and Its Oracle Properties,” Journal of the American Statistical Association, 96(456): 1348 - 1360.
+[29] Frank I. and Friedman J., 1993, “A Statistical View of Some Chemometrics Regression Tools,” Technometrics, 35(35): 109 -135.
+[30] Gabaix X., Laibson G., Moloche G., and Weinberg S. 2006, “Costly Information Acquisition: Experimental Analysis of a Boundedly Rational Model,” American Economic Review, 96(4): 1043-1068.
+[31] Hahn J., 1998, “On the Role of the Propensity Score in Efficient Semiparametric Estimation of Average Treatment Effects,” Econometrica, 66(2): 315-331.
+[32]Hahn J., Todd P. and Vanderklaauw W., 2000, “Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design,” Econometrica, 69(1): 201- 209.
+[33] Hansen L. 1982, “Large Sample Properties of Generalized Method of Moments Estimators,” Econometrica, 50 (4): 1029 - 1054.
+[34] Hansen C., Hausman J. and Newey W., 2008, “Estimation with Many Instrumental Variables,” Journal of Business & Economic Statistics, 26(4): 398 -422.
+[35] Hansen C. and Kozbur D., 2014, “Instrumental Variable Estimation with Many Instruments Using Regularized JIVE,” Journal of Econometrics, 182(2): 290- 308.
+[36] Hansen L. and Singleton K., 1982, “Generalized Instrumental Variables Estimation of Nonlinear Rational Expectations Models,” Econometrica, 50 (5): 1269 - 1286.
+[37] Heath D., Jarrow R. and Morton A., 1992, “Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claims Valuation,” E, 60(1):77-105.conometrica
+[38] Heckman J., Ichimura H. and Todd P., 1997, “Matching as an Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Program,” Review of Economic Studies, 64(2): 605 - 654.
+[39] Heckman J., Ichimura H. and Todd P., 1998, “Matching as an Econometric Evaluation Estimator,” Review of Economic Studies, 65(2): 261 -294.
+[40] Hong Y., 1999, “Hypothesis Testing in Time Series via the Empirical Characteristic Function: A Generalized Spectral Density Approach,” Journal of the American Statistical Association, 94(448): 1201-1220.
+[41] Hong Y., 2001, “A Test for Volatility Spillover with Application to Exchange Rates,” Journal of Econometrics, 103(1-2): 183-224.
+[42] Hong Y. and Lee Y., 2005, “Generalized Spectral Testing for Conditional Mean Models in Time Series with Conditional Heteroskedasticity of Unknown Form,” Review of Economic Studies, 72 (2005): 499-541.
+[43] Hong Y. and Lee Y., 2006, “An Improved Generalized Spectral Test for Time Series Models with Conditional Heteroskedasticity of Unknown Form,” Econometric Theory, 23(1): 106-154.
+[44] Hong Y., Li H. and Zhao F., 2007, “Can the Random Walk Model Be Beaten in Out-of-sample Density Forecasts: Evidence from Intraday Foreign Exchange Rates,” Journal of Econometrics, 141(2): 736-776.
+[45] Hong Y., Liu Y. and Wang S., 2009, “Granger Causality in Risk and Detection of Extreme Risk Spillover between Financial Markets,” Journal of Econometrics, 150(2): 271-287.
+[46] Hong Y., Lin H. and Wang S., 2010, “Modeling the dynamics of Chinese Spot Interest Rates,” Journal of Banking and Finance, 34(5): 1047-1061.
+[47] Hong Y. and McCloud N., 2011, “Testing the Structure of Conditional Correlations in Multivariate GARCH Models: a Generalized Cross-spectrum Approach,” International Economic Review, 52(4): 991-1037.
+[48] Hong Y. and Chen B., 2011, “Generalized Spectral Testing for Multivariate Continuous-time Models,” Journal of Econometrics,164 (2011): 268-293.
+[49] Imbens G., 2000, “The Role of the Propensity Score in Estimating Dose-Response Functions,” Biometrica, 87(3): 706-710.
+[50] Imbens G. and Angrist J., 1994, “Identification and Estimation of Local Average Treatment Effects,” Econometrica, 61(2): 467-476.
+[51] Kraay A., 2012, “Instrumental Variables Regressions with Uncertain Exclusion Restrictions: A Bayesian Approach,” Journal of Applied Econometrics, 27(1): 108-128.
+[52] Lechner M., 2002, “Program Heterogeneity and Propensity Score Matching: An Application to the Evaluation of Active Labor Market Policies,” Review of Economics and Statistics, 84(2): 205 - 220.
+[53] Lee D. and Card D., 2008, “Regression Discontinuity Inference with Specification Errors,” Journal of Econometrics, 142(2): 655 - 674.
+[54] Markowitz H, 1952, “Portfolio Selection,”  Journal of Finance, 7 (1): 77-91.
+[55] Nagel R., 1995, “Unraveling in Guessing Games: An Experimental Study,” American Economic Review, 85(5): 1313-1326.
+[56] Okui R., 2011, “Instrumental Variable Estimation in the Presence of Many Moment Conditions,”Journal of Econometrics, 165(1): 70- 86.
+[57] Pesaran H., 2006, “Estimation and Inference in Large Heterogenous Panels with Multifactor Error Structure,” Econometrica, 74(4): 967- 1012.
+[58] Pesaran H. and Tosetti E., 2011, “Large Panels with Common Factors and Spatial Correlation,” Journal of Econometrics, 161(2): 182 – 202.
+[59] Reutskaja E., Nagel R., Camerer C., and Rangel A., 2011, “Search Dynamics in Consumer Choice under Time Pressure: An Eye-Tracking Study,” American Economic Review,101(2): 900-926.
+[60] Ross S., 1976, “The Arbitrage Theory of Capital Asset Pricing,” Journal of Economic Theory, 13 (3): 341-360.
+[61] Rubin D., 1973, “Matching to Remove Bias in Observational Studies,” Biometrics, 29(29): 159 - 183.
+[62] Sharpe W., 1964, “Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk,” Journal of Finance, 19(3): 425-442.
+[63]Stahl D. and Wilson P., 1995, “On Players’ Models of Other Players: Theory and Experimental Evidence,” Game and Economic Behavior, 10 (1): 218-254.
+[64]Tibshirani R., 1996, “Regression Shrinkage and Selection via LASSO,” Journal of the Royal Statistical Society Series B, 58(1): 267-288.
+[65]Trochim, W., 1984, Research Design for Program Evaluation: The Regression-Discontinuity Design, Sage Publications: Beverly Hills, CA, USA.
+[66]Working H., 1934, “A Random-Difference Series for Use in the Analysis of Time Series,” Journal of the American Statistical Association,29(185): 11-24.
